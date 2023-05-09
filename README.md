@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shonali Romeshika</h1>
 <h3 align="center">Software Engineering Undergraduate from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **python** and **Angular**
 
 - 📫 How to reach me **shonaliromeshika@gmail.com**
 
