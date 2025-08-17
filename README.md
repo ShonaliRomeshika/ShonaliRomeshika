@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shonali Romeshika</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Spring Boot** and **React**
 
 - 📫 How to reach me **shonaliromeshika@gmail.com**
 
